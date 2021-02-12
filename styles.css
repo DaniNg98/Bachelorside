@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.image {
+    max-width: 50%;
+    padding-top: 6vh;
+    padding-bottom: 1vh;
+}
+
+.imagePerson {
+    max-width: 70%;
+    max-height: 70%;
+    padding-top: 6vh;
+    padding-bottom: 1vh;
+}
+
+.image:hover {
+    opacity: 0.5;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
